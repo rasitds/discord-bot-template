@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "discord-api-types": "^0.37.20",
-    "discord.js": "^14.7.0",
-    "dotenv": "^16.0.0",
-    "nodemon": "^2.0.15"
+    "discord-api-types": "^0.37.21",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
   },
   "name": "discordjs-bot-template",
   "version": "1.0.0",
